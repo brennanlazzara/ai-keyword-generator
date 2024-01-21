@@ -3,6 +3,7 @@ import logo from "../../public/openai.png";
 
 const Footer = () => {
   return (
+    // comment for push
     <Box marginTop={50}>
       <Flex justifyContent="center" alignItems="center">
         <Image src={logo} marginRight={1} />
